@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ems-system
+
+security:
+  enabled:
+    csrf: false
